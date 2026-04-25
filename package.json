@@ -1,0 +1,29 @@
+{
+  "name": "ai-xifu-caopan",
+  "version": "2.0.0",
+  "description": "「AI媳妇操盘」— 14章节专业期货交易方案模板",
+  "author": "AI媳妇操盘",
+  "license": "SEE LICENSE FILE",
+  "private": true,
+  "keywords": [
+    "期货",
+    "股票",
+    "基金",
+    "投资分析",
+    "交易方案",
+    "金融",
+    "AI操盘"
+  ],
+  "category": "finance",
+  "price": 0,
+  "currency": "CNY",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/openclaw/ai-xifu-caopan"
+  },
+  "engines": {
+    "openclaw": ">=1.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
